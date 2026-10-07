@@ -1,0 +1,10 @@
+
+The actual data (i.e. sequenced reads) are stored on the Euler HPC cluster.
+
+To access the data, do the following:
+- open a terminal (e.g. in jupyterhub)
+- type 'ssh <yourethusername>@euler.ethz.ch'
+- when prompted to enter the password, enter your eth password (you won't see what you're typing)
+--> you should now be in on the Euler HPC cluster
+- go to the directory of this project by typing 'cd ~/../../scratch/tpayer/MicroOdyssey/'
+- to specifically see the dataset, go to the directory of the dataset by typing 'cd data/raw'

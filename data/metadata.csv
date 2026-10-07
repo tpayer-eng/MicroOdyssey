@@ -1,0 +1,235 @@
+﻿del;collection_date;country;instrument;sample_id;delivery_mode;host_sex;diet_milk;city;latitude;longitude;urca_code;urca_description;host_id;host_age;seq_depth
+SRR25052523;19.09.2018;usa;illumina novaseq 6000;1;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);10;2 months;17325587
+SRR25052512;20.12.2018;usa;illumina novaseq 6000;2;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);10;6 months;12407450
+SRR25052501;08.07.2019;usa;illumina novaseq 6000;3;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);10;12 months;11964978
+SRR25052458;30.06.2020;usa;illumina novaseq 6000;4;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);10;24 months;10921526
+SRR25052720;28.08.2018;usa;illumina novaseq 6000;5;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);105;birth;12988703
+SRR25052719;17.12.2018;usa;illumina novaseq 6000;6;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);105;2 months;13800963
+SRR25052576;27.02.2019;usa;illumina novaseq 6000;7;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);105;6 months;15786020
+SRR25052492;27.09.2019;usa;illumina novaseq 6000;8;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);105;12 months;12415635
+SRR25052481;28.08.2020;usa;illumina novaseq 6000;9;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);105;24 months;14195084
+SRR25052643;24.08.2018;usa;illumina novaseq 6000;10;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);116;2 months;13489018
+SRR25052632;08.02.2019;usa;illumina novaseq 6000;11;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);116;6 months;16047054
+SRR25052621;23.08.2019;usa;illumina novaseq 6000;12;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);116;12 months;15796635
+SRR25052610;25.09.2020;usa;illumina novaseq 6000;13;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);116;24 months;13583817
+SRR25052556;02.10.2018;usa;illumina novaseq 6000;14;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);123;2 months;14183210
+SRR25052545;30.01.2019;usa;illumina novaseq 6000;15;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);123;6 months;17280353
+SRR25052534;30.09.2019;usa;illumina novaseq 6000;16;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);123;12 months;13822371
+SRR25052587;12.08.2020;usa;illumina novaseq 6000;17;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);123;24 months;14196108
+SRR25052564;13.12.2018;usa;illumina novaseq 6000;18;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);130;2 months;12410509
+SRR25052713;27.03.2019;usa;illumina novaseq 6000;19;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);130;6 months;14190712
+SRR25052702;27.09.2019;usa;illumina novaseq 6000;20;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);130;12 months;15484643
+SRR25052691;25.09.2020;usa;illumina novaseq 6000;21;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);130;24 months;8763305
+SRR25052669;21.09.2018;usa;illumina novaseq 6000;22;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1311;2 months;14120536
+SRR25052658;17.01.2019;usa;illumina novaseq 6000;23;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1311;6 months;16845965
+SRR25052654;30.09.2019;usa;illumina novaseq 6000;24;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1311;12 months;15286813
+SRR25052653;24.08.2020;usa;illumina novaseq 6000;25;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1311;24 months;14827823
+SRR25052491;01.11.2018;usa;illumina novaseq 6000;26;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1385;birth;16213649
+SRR25052490;14.01.2019;usa;illumina novaseq 6000;27;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1385;2 months;17485848
+SRR25052489;14.06.2019;usa;illumina novaseq 6000;28;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1385;6 months;14201599
+SRR25052488;05.11.2019;usa;illumina novaseq 6000;29;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1385;12 months;14552863
+SRR25052487;10.12.2020;usa;illumina novaseq 6000;30;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);1385;24 months;16148817
+SRR25052486;17.08.2018;usa;illumina novaseq 6000;31;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);143;birth;15763187
+SRR25052485;14.01.2019;usa;illumina novaseq 6000;32;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);143;2 months;18640980
+SRR25052484;14.03.2019;usa;illumina novaseq 6000;33;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);143;6 months;13340337
+SRR25052483;27.09.2019;usa;illumina novaseq 6000;34;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);143;12 months;7298299
+SRR25052482;11.09.2020;usa;illumina novaseq 6000;35;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);143;24 months;12187650
+SRR25052479;13.12.2018;usa;illumina novaseq 6000;36;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);159;2 months;13134320
+SRR25052478;27.02.2019;usa;illumina novaseq 6000;37;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);159;6 months;14962919
+SRR25052477;27.09.2019;usa;illumina novaseq 6000;38;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);159;12 months;16394268
+SRR25052476;11.09.2020;usa;illumina novaseq 6000;39;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);159;24 months;16090818
+SRR25052474;20.12.2018;usa;illumina novaseq 6000;40;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);163;2 months;12903762
+SRR25052473;19.04.2019;usa;illumina novaseq 6000;41;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);163;6 months;15598641
+SRR25052472;30.09.2019;usa;illumina novaseq 6000;42;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);163;12 months;14415246
+SRR25052471;06.10.2020;usa;illumina novaseq 6000;43;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);163;24 months;14059267
+SRR25052469;27.08.2018;usa;illumina novaseq 6000;44;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);171;birth;12763759
+SRR25052468;05.12.2018;usa;illumina novaseq 6000;45;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);171;2 months;16431268
+SRR25052467;27.02.2019;usa;illumina novaseq 6000;46;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);171;6 months;16921108
+SRR25052466;27.09.2019;usa;illumina novaseq 6000;47;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);171;12 months;11864505
+SRR25052465;25.09.2020;usa;illumina novaseq 6000;48;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);171;24 months;15429600
+SRR25052464;27.09.2018;usa;illumina novaseq 6000;49;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);189;birth;8902255
+SRR25052463;21.12.2018;usa;illumina novaseq 6000;50;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);189;2 months;18089396
+SRR25052462;24.04.2019;usa;illumina novaseq 6000;51;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);189;6 months;17051742
+SRR25052461;15.10.2019;usa;illumina novaseq 6000;52;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);189;12 months;14404813
+SRR25052524;28.10.2020;usa;illumina novaseq 6000;53;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);189;24 months;15791393
+SRR25052516;03.07.2018;usa;illumina novaseq 6000;54;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);19;2 months;13938852
+SRR25052515;17.12.2018;usa;illumina novaseq 6000;55;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);19;6 months;14945390
+SRR25052514;08.07.2019;usa;illumina novaseq 6000;56;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);19;12 months;15852106
+SRR25052513;27.07.2020;usa;illumina novaseq 6000;57;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);19;24 months;14847999
+SRR25052522;02.10.2018;usa;illumina novaseq 6000;58;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);191;birth;10768466
+SRR25052521;17.12.2018;usa;illumina novaseq 6000;59;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);191;2 months;13233628
+SRR25052520;24.04.2019;usa;illumina novaseq 6000;60;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);191;6 months;12588752
+SRR25052519;27.09.2019;usa;illumina novaseq 6000;61;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);191;12 months;15658787
+SRR25052518;13.10.2020;usa;illumina novaseq 6000;62;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);191;24 months;12775304
+SRR25052505;05.07.2018;usa;illumina novaseq 6000;63;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);21;2 months;15839762
+SRR25052504;17.12.2018;usa;illumina novaseq 6000;64;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);21;6 months;14135674
+SRR25052503;20.06.2019;usa;illumina novaseq 6000;65;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);21;12 months;12688737
+SRR25052502;14.07.2020;usa;illumina novaseq 6000;66;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);21;24 months;15006010
+SRR25052510;20.12.2018;usa;illumina novaseq 6000;67;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);210;2 months;8292642
+SRR25052509;20.05.2019;usa;illumina novaseq 6000;68;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);210;6 months;14961933
+SRR25052508;04.10.2019;usa;illumina novaseq 6000;69;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);210;12 months;17786335
+SRR25052507;13.10.2020;usa;illumina novaseq 6000;70;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);210;24 months;12725265
+SRR25052499;21.12.2018;usa;illumina novaseq 6000;71;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);229;2 months;13435690
+SRR25052498;27.02.2019;usa;illumina novaseq 6000;72;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);229;6 months;5380099
+SRR25052497;27.09.2019;usa;illumina novaseq 6000;73;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);229;12 months;13837931
+SRR25052496;10.09.2020;usa;illumina novaseq 6000;74;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);229;24 months;17677405
+SRR25052495;11.04.2018;usa;illumina novaseq 6000;75;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);231;birth;5922664
+SRR25052494;18.06.2018;usa;illumina novaseq 6000;76;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);231;2 months;15804343
+SRR25052493;17.12.2018;usa;illumina novaseq 6000;77;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);231;6 months;11089846
+SRR25052460;23.05.2019;usa;illumina novaseq 6000;78;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);231;12 months;12176282
+SRR25052459;14.07.2020;usa;illumina novaseq 6000;79;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);231;24 months;15669343
+SRR25052456;14.03.2019;usa;illumina novaseq 6000;80;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);235;2 months;12170449
+SRR25052455;08.07.2019;usa;illumina novaseq 6000;81;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);235;6 months;13855858
+SRR25052454;27.12.2019;usa;illumina novaseq 6000;82;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);235;12 months;14601122
+SRR25052453;25.10.2018;usa;illumina novaseq 6000;83;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);246;birth;14408311
+SRR25052452;04.01.2019;usa;illumina novaseq 6000;84;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);246;2 months;19346835
+SRR25052451;03.06.2019;usa;illumina novaseq 6000;85;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);246;6 months;8920915
+SRR25052450;25.10.2019;usa;illumina novaseq 6000;86;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);246;12 months;18238106
+SRR25052449;05.11.2020;usa;illumina novaseq 6000;87;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);246;24 months;14377207
+SRR25052649;14.06.2018;usa;illumina novaseq 6000;88;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);25;birth;11948209
+SRR25052648;08.08.2018;usa;illumina novaseq 6000;89;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);25;2 months;12186990
+SRR25052647;28.12.2018;usa;illumina novaseq 6000;90;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);25;6 months;15382094
+SRR25052646;15.08.2019;usa;illumina novaseq 6000;91;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);25;12 months;12917073
+SRR25052645;24.06.2020;usa;illumina novaseq 6000;92;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);25;24 months;12167065
+SRR25052448;19.07.2018;usa;illumina novaseq 6000;93;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);252;birth;7219032
+SRR25052717;18.10.2018;usa;illumina novaseq 6000;94;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);252;2 months;14539099
+SRR25052652;25.01.2019;usa;illumina novaseq 6000;95;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);252;6 months;12828194
+SRR25052651;27.09.2019;usa;illumina novaseq 6000;96;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);252;12 months;16814244
+SRR25052650;28.08.2020;usa;illumina novaseq 6000;97;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);252;24 months;14739465
+SRR25052642;28.12.2018;usa;illumina novaseq 6000;98;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);261;2 months;14599226
+SRR25052641;14.06.2019;usa;illumina novaseq 6000;99;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);261;6 months;16088796
+SRR25052640;25.10.2019;usa;illumina novaseq 6000;100;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);261;12 months;13899017
+SRR25052639;05.11.2020;usa;illumina novaseq 6000;101;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);261;24 months;14253257
+SRR25052637;14.01.2019;usa;illumina novaseq 6000;102;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);293;2 months;13574132
+SRR25052636;05.06.2019;usa;illumina novaseq 6000;103;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);293;6 months;13383892
+SRR25052635;25.10.2019;usa;illumina novaseq 6000;104;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);293;12 months;13964381
+SRR25052634;05.11.2020;usa;illumina novaseq 6000;105;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);293;24 months;12808355
+SRR25052631;18.07.2018;usa;illumina novaseq 6000;106;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);305;2 months;12288766
+SRR25052630;28.12.2018;usa;illumina novaseq 6000;107;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);305;6 months;14458915
+SRR25052629;08.07.2019;usa;illumina novaseq 6000;108;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);305;12 months;12742162
+SRR25052628;25.06.2020;usa;illumina novaseq 6000;109;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);305;24 months;10476538
+SRR25052626;17.12.2018;usa;illumina novaseq 6000;110;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);313;2 months;13047175
+SRR25052625;19.04.2019;usa;illumina novaseq 6000;111;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);313;6 months;15339555
+SRR25052624;03.10.2019;usa;illumina novaseq 6000;112;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);313;12 months;14894010
+SRR25052623;06.10.2020;usa;illumina novaseq 6000;113;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);313;24 months;15225396
+SRR25052622;23.11.2018;usa;illumina novaseq 6000;114;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);324;birth;14172064
+SRR25052620;25.01.2019;usa;illumina novaseq 6000;115;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);324;2 months;17821256
+SRR25052619;28.06.2019;usa;illumina novaseq 6000;116;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);324;6 months;16767999
+SRR25052617;05.11.2020;usa;illumina novaseq 6000;117;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);324;24 months;15496142
+SRR25052615;04.01.2019;usa;illumina novaseq 6000;118;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);336;2 months;17172603
+SRR25052614;02.08.2019;usa;illumina novaseq 6000;119;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);336;6 months;13726701
+SRR25052613;23.12.2019;usa;illumina novaseq 6000;120;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);336;12 months;11885546
+SRR25052612;20.11.2020;usa;illumina novaseq 6000;121;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);336;24 months;13761161
+SRR25052611;17.12.2018;usa;illumina novaseq 6000;122;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);343;2 months;18159337
+SRR25052609;24.04.2019;usa;illumina novaseq 6000;123;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);343;6 months;14682276
+SRR25052608;25.09.2019;usa;illumina novaseq 6000;124;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);343;12 months;13894087
+SRR25052605;06.08.2018;usa;illumina novaseq 6000;125;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);368;2 months;13888402
+SRR25052604;28.12.2018;usa;illumina novaseq 6000;126;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);368;6 months;13253637
+SRR25052603;13.08.2019;usa;illumina novaseq 6000;127;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);368;12 months;15567227
+SRR25052602;30.06.2020;usa;illumina novaseq 6000;128;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);368;24 months;11306201
+SRR25052601;06.08.2018;usa;illumina novaseq 6000;129;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);372;birth;11235599
+SRR25052600;24.12.2018;usa;illumina novaseq 6000;130;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);372;2 months;17873219
+SRR25052598;27.02.2019;usa;illumina novaseq 6000;131;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);372;6 months;12778916
+SRR25052597;15.10.2019;usa;illumina novaseq 6000;132;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);372;12 months;15947757
+SRR25052596;06.10.2020;usa;illumina novaseq 6000;133;csection;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);372;24 months;14264627
+SRR25052595;21.12.2018;usa;illumina novaseq 6000;134;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);391;birth;11498048
+SRR25052594;27.02.2019;usa;illumina novaseq 6000;135;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);391;2 months;13636166
+SRR25052593;13.08.2019;usa;illumina novaseq 6000;136;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);391;6 months;12806145
+SRR25052592;24.01.2020;usa;illumina novaseq 6000;137;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);391;12 months;12409390
+SRR25052591;10.12.2020;usa;illumina novaseq 6000;138;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);391;24 months;13635880
+SRR25052589;04.01.2019;usa;illumina novaseq 6000;139;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);392;2 months;15895026
+SRR25052555;21.06.2019;usa;illumina novaseq 6000;140;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);392;6 months;11670592
+SRR25052554;29.10.2019;usa;illumina novaseq 6000;141;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);392;12 months;13480678
+SRR25052553;13.11.2020;usa;illumina novaseq 6000;142;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);392;24 months;5915963
+SRR25052550;02.08.2019;usa;illumina novaseq 6000;143;csection;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);396;6 months;14353785
+SRR25052549;23.12.2019;usa;illumina novaseq 6000;144;csection;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);396;12 months;14277390
+SRR25052548;05.11.2020;usa;illumina novaseq 6000;145;csection;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);396;24 months;16420744
+SRR25052546;25.01.2019;usa;illumina novaseq 6000;146;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);444;2 months;10716689
+SRR25052544;26.07.2019;usa;illumina novaseq 6000;147;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);444;6 months;14964905
+SRR25052542;13.11.2020;usa;illumina novaseq 6000;148;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);444;24 months;18309005
+SRR25052540;22.03.2019;usa;illumina novaseq 6000;149;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);451;2 months;14768391
+SRR25052539;15.08.2019;usa;illumina novaseq 6000;150;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);451;6 months;13621253
+SRR25052538;03.02.2020;usa;illumina novaseq 6000;151;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);451;12 months;13884990
+SRR25052537;04.01.2021;usa;illumina novaseq 6000;152;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);451;24 months;14689286
+SRR25052535;17.01.2019;usa;illumina novaseq 6000;153;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);455;2 months;10953335
+SRR25052533;02.08.2019;usa;illumina novaseq 6000;154;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);455;6 months;14231654
+SRR25052532;23.12.2019;usa;illumina novaseq 6000;155;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);455;12 months;14900724
+SRR25052531;13.11.2020;usa;illumina novaseq 6000;156;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);455;24 months;14443771
+SRR25052529;14.12.2018;usa;illumina novaseq 6000;157;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);465;2 months;13286476
+SRR25052528;19.04.2019;usa;illumina novaseq 6000;158;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);465;6 months;14367560
+SRR25052526;05.11.2020;usa;illumina novaseq 6000;159;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);465;24 months;14585775
+SRR25052588;17.01.2019;usa;illumina novaseq 6000;160;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);472;2 months;15441070
+SRR25052586;08.07.2019;usa;illumina novaseq 6000;161;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);472;6 months;13753053
+SRR25052585;23.12.2019;usa;illumina novaseq 6000;162;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);472;12 months;14890522
+SRR25052584;10.12.2020;usa;illumina novaseq 6000;163;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);472;24 months;14476226
+SRR25052582;17.01.2019;usa;illumina novaseq 6000;164;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);474;2 months;17600799
+SRR25052581;02.08.2019;usa;illumina novaseq 6000;165;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);474;6 months;16035464
+SRR25052579;13.11.2020;usa;illumina novaseq 6000;166;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);474;24 months;15801205
+SRR25052577;28.12.2018;usa;illumina novaseq 6000;167;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);478;2 months;13802795
+SRR25052574;14.03.2019;usa;illumina novaseq 6000;168;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);478;6 months;12379395
+SRR25052573;22.10.2019;usa;illumina novaseq 6000;169;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);478;12 months;15171955
+SRR25052572;13.11.2020;usa;illumina novaseq 6000;170;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);478;24 months;14307838
+SRR25052704;04.04.2018;usa;illumina novaseq 6000;171;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);5;birth;11934130
+SRR25052703;17.07.2018;usa;illumina novaseq 6000;172;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);5;2 months;15861751
+SRR25052700;23.08.2019;usa;illumina novaseq 6000;173;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);5;12 months;16065223
+SRR25052699;11.01.2021;usa;illumina novaseq 6000;174;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);5;24 months;17920979
+SRR25052570;08.07.2019;usa;illumina novaseq 6000;175;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);505;2 months;12983703
+SRR25052569;27.09.2019;usa;illumina novaseq 6000;176;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);505;6 months;14693302
+SRR25052568;03.03.2020;usa;illumina novaseq 6000;177;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);505;12 months;11374745
+SRR25052567;12.03.2021;usa;illumina novaseq 6000;178;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);505;24 months;9968952
+SRR25052566;17.12.2018;usa;illumina novaseq 6000;179;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);513;birth;14678964
+SRR25052565;15.02.2019;usa;illumina novaseq 6000;180;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);513;2 months;13672998
+SRR25052563;09.08.2019;usa;illumina novaseq 6000;181;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);513;6 months;15243740
+SRR25052562;09.01.2020;usa;illumina novaseq 6000;182;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);513;12 months;16041240
+SRR25052561;10.12.2020;usa;illumina novaseq 6000;183;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);513;24 months;14732717
+SRR25052560;08.01.2019;usa;illumina novaseq 6000;184;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);527;birth;15787269
+SRR25052559;22.03.2019;usa;illumina novaseq 6000;185;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);527;2 months;13299096
+SRR25052558;23.08.2019;usa;illumina novaseq 6000;186;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);527;6 months;11581772
+SRR25052557;06.03.2020;usa;illumina novaseq 6000;187;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);527;12 months;12980361
+SRR25052716;10.12.2020;usa;illumina novaseq 6000;188;vaginal;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);527;24 months;13398248
+SRR25052715;05.06.2018;usa;illumina novaseq 6000;189;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);53;birth;9818697
+SRR25052714;17.08.2018;usa;illumina novaseq 6000;190;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);53;2 months;13329626
+SRR25052712;14.01.2019;usa;illumina novaseq 6000;191;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);53;6 months;9779869
+SRR25052711;23.08.2019;usa;illumina novaseq 6000;192;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);53;12 months;12897272
+SRR25052710;14.07.2020;usa;illumina novaseq 6000;193;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);53;24 months;14537877
+SRR25052708;24.12.2018;usa;illumina novaseq 6000;194;csection;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);548;2 months;15733350
+SRR25052707;14.03.2019;usa;illumina novaseq 6000;195;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);548;6 months;16260857
+SRR25052706;27.09.2019;usa;illumina novaseq 6000;196;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);548;12 months;14704071
+SRR25052705;28.08.2020;usa;illumina novaseq 6000;197;csection;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);548;24 months;14206639
+SRR25052697;04.01.2019;usa;illumina novaseq 6000;198;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);603;2 months;15508470
+SRR25052696;26.04.2019;usa;illumina novaseq 6000;199;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);603;6 months;16901556
+SRR25052695;25.09.2019;usa;illumina novaseq 6000;200;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);603;12 months;13748658
+SRR25052694;27.10.2020;usa;illumina novaseq 6000;201;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);603;24 months;11696885
+SRR25052687;05.07.2018;usa;illumina novaseq 6000;202;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);61;birth;14958557
+SRR25052686;27.09.2018;usa;illumina novaseq 6000;203;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);61;2 months;14328686
+SRR25052685;30.01.2019;usa;illumina novaseq 6000;204;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);61;6 months;14785146
+SRR25052684;27.12.2019;usa;illumina novaseq 6000;205;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);61;12 months;13918862
+SRR25052683;12.08.2020;usa;illumina novaseq 6000;206;vaginal;female;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);61;24 months;14177339
+SRR25052693;11.01.2019;usa;illumina novaseq 6000;207;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);612;birth;14468624
+SRR25052692;22.03.2019;usa;illumina novaseq 6000;208;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);612;2 months;15883204
+SRR25052690;23.08.2019;usa;illumina novaseq 6000;209;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);612;6 months;13593480
+SRR25052689;14.02.2020;usa;illumina novaseq 6000;210;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);612;12 months;9589625
+SRR25052688;10.12.2020;usa;illumina novaseq 6000;211;csection;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);612;24 months;14047189
+SRR25052682;24.05.2018;usa;illumina novaseq 6000;212;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);66;birth;13521129
+SRR25052681;31.08.2018;usa;illumina novaseq 6000;213;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);66;2 months;10659478
+SRR25052679;13.02.2019;usa;illumina novaseq 6000;214;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);66;6 months;14015195
+SRR25052678;11.07.2019;usa;illumina novaseq 6000;215;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);66;12 months;14530290
+SRR25052677;27.07.2020;usa;illumina novaseq 6000;216;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);66;24 months;13128867
+SRR25052675;09.08.2018;usa;illumina novaseq 6000;217;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);72;2 months;16052640
+SRR25052674;14.01.2019;usa;illumina novaseq 6000;218;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);72;6 months;12872604
+SRR25052673;23.08.2019;usa;illumina novaseq 6000;219;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);72;12 months;13719159
+SRR25052672;29.06.2020;usa;illumina novaseq 6000;220;csection;male;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);72;24 months;13927456
+SRR25052671;28.06.2018;usa;illumina novaseq 6000;221;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);88;birth;15248493
+SRR25052670;31.08.2018;usa;illumina novaseq 6000;222;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);88;2 months;12970935
+SRR25052668;14.01.2019;usa;illumina novaseq 6000;223;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);88;6 months;14367304
+SRR25052667;13.08.2019;usa;illumina novaseq 6000;224;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);88;12 months;11516383
+SRR25052666;25.06.2020;usa;illumina novaseq 6000;225;vaginal;female;bd;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);88;24 months;16006132
+SRR25052665;27.12.2018;usa;illumina novaseq 6000;226;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);897;birth;12939308
+SRR25052664;27.02.2019;usa;illumina novaseq 6000;227;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);897;2 months;13613612
+SRR25052663;29.08.2019;usa;illumina novaseq 6000;228;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);897;6 months;13173061
+SRR25052662;07.01.2020;usa;illumina novaseq 6000;229;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);897;12 months;15136326
+SRR25052661;04.01.2021;usa;illumina novaseq 6000;230;vaginal;female;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);897;24 months;13500392
+SRR25052659;19.09.2018;usa;illumina novaseq 6000;231;vaginal;male;;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);95;2 months;12592625
+SRR25052657;30.01.2019;usa;illumina novaseq 6000;232;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);95;6 months;16251462
+SRR25052656;27.09.2019;usa;illumina novaseq 6000;233;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);95;12 months;13956610
+SRR25052655;28.08.2020;usa;illumina novaseq 6000;234;vaginal;male;mixed;falls church;38.86;-77.23;9;<1 hour to large city (1 - 5 million);95;24 months;15447723
