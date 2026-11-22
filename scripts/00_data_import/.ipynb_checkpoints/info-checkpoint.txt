@@ -1,0 +1,1 @@
+data import was not performed in a shell script, instead directly as a one-liner which wrapped the job
